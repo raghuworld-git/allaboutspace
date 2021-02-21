@@ -1,0 +1,53 @@
+.astronaut{
+    margin-bottom: 10px;
+}
+
+.astronaut__img{
+    width: 100%;
+    object-fit: cover;  
+    height: 25em;
+}
+
+.astronaut__details__img{
+    object-fit: cover;  
+    height: 30em !important ;
+}
+
+.astronaut__details__card{
+    height: 30em !important ;            
+}
+
+table td{
+    font-weight: 400 !important;
+}
+
+.greyColor{
+    background-color: #1E1E1E;
+    color:whitesmoke;
+}
+
+.dangerColor{
+    color: #CC0000;
+}
+
+.successColor{
+    color: #388e3c;
+}
+
+/* .cardTextHighLight{
+    font-size: 1em !important;
+    font-weight: 400 !important;
+} */
+
+/* @media (min-width: 768px){
+    .astronaut__img {
+       
+    }
+}
+
+@media (max-width: 991.98px){
+    .astronaut__img{
+        height: 30em;
+    }
+} */
+
